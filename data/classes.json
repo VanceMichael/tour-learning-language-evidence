@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cl-00",
+    "site": "north",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-01",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-01",
+    "site": "east",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-02",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-02",
+    "site": "west",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-03",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-03",
+    "site": "north",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-04",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-04",
+    "site": "east",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-05",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-05",
+    "site": "west",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-06",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-06",
+    "site": "north",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-07",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-07",
+    "site": "east",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-08",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-08",
+    "site": "west",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-09",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-09",
+    "site": "north",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-10",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-10",
+    "site": "east",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-11",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-11",
+    "site": "west",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-12",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-12",
+    "site": "north",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-13",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-13",
+    "site": "east",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-14",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-14",
+    "site": "west",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-15",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-15",
+    "site": "north",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-16",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-16",
+    "site": "east",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-17",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-17",
+    "site": "west",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-18",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-18",
+    "site": "north",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-19",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-19",
+    "site": "east",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-20",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-20",
+    "site": "west",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-21",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-21",
+    "site": "north",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-22",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-22",
+    "site": "east",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-23",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-23",
+    "site": "west",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-24",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-24",
+    "site": "north",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-25",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-25",
+    "site": "east",
+    "band": "lower",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-26",
+    "scale": "de-v2"
+  },
+  {
+    "id": "cl-26",
+    "site": "west",
+    "band": "upper",
+    "assigned": "live",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-27",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-27",
+    "site": "north",
+    "band": "upper",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-0",
+    "day": "2026-10-28",
+    "scale": "cn-v1"
+  },
+  {
+    "id": "cl-28",
+    "site": "east",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-1",
+    "day": "2026-10-29",
+    "scale": "de-v1"
+  },
+  {
+    "id": "cl-29",
+    "site": "west",
+    "band": "lower",
+    "assigned": "captions",
+    "probability": 0.5,
+    "show": "show-2",
+    "day": "2026-10-30",
+    "scale": "de-v1"
+  }
+]

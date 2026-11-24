@@ -1,0 +1,93 @@
+[
+  {
+    "id": "de1",
+    "version": "de-v1",
+    "comparable_item": "i1",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "de2",
+    "version": "de-v1",
+    "comparable_item": "i2",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "de3",
+    "version": "de-v1",
+    "comparable_item": "i3",
+    "target": "inference",
+    "trusted_link": true
+  },
+  {
+    "id": "de6",
+    "version": "de-v1",
+    "comparable_item": "i6",
+    "target": "inference",
+    "trusted_link": true
+  },
+  {
+    "id": "cn1",
+    "version": "cn-v1",
+    "comparable_item": "i1",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "cn2",
+    "version": "cn-v1",
+    "comparable_item": "i2",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "cn3",
+    "version": "cn-v1",
+    "comparable_item": "i3",
+    "target": "inference",
+    "trusted_link": true
+  },
+  {
+    "id": "cn6",
+    "version": "cn-v1",
+    "comparable_item": "i6",
+    "target": "inference",
+    "trusted_link": true
+  },
+  {
+    "id": "de4",
+    "version": "de-v2",
+    "comparable_item": "i4",
+    "target": "inference",
+    "trusted_link": false
+  },
+  {
+    "id": "de5",
+    "version": "de-v2",
+    "comparable_item": "i1",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "de7",
+    "version": "de-v2",
+    "comparable_item": "i2",
+    "target": "literal",
+    "trusted_link": true
+  },
+  {
+    "id": "de8",
+    "version": "de-v2",
+    "comparable_item": "i6",
+    "target": "inference",
+    "trusted_link": true
+  },
+  {
+    "id": "de9",
+    "version": "de-v2",
+    "comparable_item": "i3",
+    "target": "inference",
+    "trusted_link": true
+  }
+]

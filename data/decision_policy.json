@@ -1,0 +1,9 @@
+[
+  {
+    "id": "winter",
+    "needed_anchors": 2,
+    "min_classes": 2,
+    "max_minutes": 540,
+    "min_effect": 0.06
+  }
+]

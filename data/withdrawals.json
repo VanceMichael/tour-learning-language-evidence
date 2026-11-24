@@ -1,0 +1,16 @@
+[
+  {
+    "id": "wd2",
+    "class": "cl-05",
+    "target": "inference",
+    "phase": "post",
+    "effective": "2026-11-08"
+  },
+  {
+    "id": "wd3",
+    "class": "cl-06",
+    "target": "all",
+    "phase": "all",
+    "effective": "2026-11-12"
+  }
+]

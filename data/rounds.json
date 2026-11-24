@@ -1,0 +1,290 @@
+[
+  {
+    "id": "visit-00",
+    "class": "cl-00",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-01",
+    "opened": false
+  },
+  {
+    "id": "mat-00",
+    "class": "cl-00",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-01",
+    "opened": true
+  },
+  {
+    "id": "visit-01",
+    "class": "cl-01",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-02",
+    "opened": true
+  },
+  {
+    "id": "visit-02",
+    "class": "cl-02",
+    "show": "show-2",
+    "actual": "live",
+    "day": "2026-10-03",
+    "opened": true
+  },
+  {
+    "id": "visit-03",
+    "class": "cl-03",
+    "show": "show-0",
+    "actual": "captions",
+    "day": "2026-10-04",
+    "opened": true
+  },
+  {
+    "id": "visit-04",
+    "class": "cl-04",
+    "show": "show-1",
+    "actual": "captions",
+    "day": "2026-10-05",
+    "opened": true
+  },
+  {
+    "id": "visit-05",
+    "class": "cl-05",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-06",
+    "opened": true
+  },
+  {
+    "id": "mat-05",
+    "class": "cl-05",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-06",
+    "opened": true
+  },
+  {
+    "id": "visit-06",
+    "class": "cl-06",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-07",
+    "opened": true
+  },
+  {
+    "id": "visit-07",
+    "class": "cl-07",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-08",
+    "opened": true
+  },
+  {
+    "id": "visit-08",
+    "class": "cl-08",
+    "show": "show-2",
+    "actual": "live",
+    "day": "2026-10-09",
+    "opened": true
+  },
+  {
+    "id": "visit-09",
+    "class": "cl-09",
+    "show": "show-0",
+    "actual": "captions",
+    "day": "2026-10-10",
+    "opened": true
+  },
+  {
+    "id": "visit-10",
+    "class": "cl-10",
+    "show": "show-1",
+    "actual": "captions",
+    "day": "2026-10-11",
+    "opened": true
+  },
+  {
+    "id": "mat-10",
+    "class": "cl-10",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-11",
+    "opened": true
+  },
+  {
+    "id": "visit-11",
+    "class": "cl-11",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-12",
+    "opened": false
+  },
+  {
+    "id": "visit-12",
+    "class": "cl-12",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-13",
+    "opened": true
+  },
+  {
+    "id": "visit-13",
+    "class": "cl-13",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-14",
+    "opened": true
+  },
+  {
+    "id": "visit-14",
+    "class": "cl-14",
+    "show": "show-2",
+    "actual": "live",
+    "day": "2026-10-15",
+    "opened": true
+  },
+  {
+    "id": "visit-15",
+    "class": "cl-15",
+    "show": "show-0",
+    "actual": "captions",
+    "day": "2026-10-16",
+    "opened": true
+  },
+  {
+    "id": "mat-15",
+    "class": "cl-15",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-16",
+    "opened": true
+  },
+  {
+    "id": "visit-16",
+    "class": "cl-16",
+    "show": "show-1",
+    "actual": "captions",
+    "day": "2026-10-17",
+    "opened": true
+  },
+  {
+    "id": "visit-17",
+    "class": "cl-17",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-18",
+    "opened": true
+  },
+  {
+    "id": "visit-18",
+    "class": "cl-18",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-19",
+    "opened": true
+  },
+  {
+    "id": "visit-19",
+    "class": "cl-19",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-20",
+    "opened": true
+  },
+  {
+    "id": "visit-20",
+    "class": "cl-20",
+    "show": "show-2",
+    "actual": "live",
+    "day": "2026-10-21",
+    "opened": true
+  },
+  {
+    "id": "mat-20",
+    "class": "cl-20",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-21",
+    "opened": true
+  },
+  {
+    "id": "visit-21",
+    "class": "cl-21",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-22",
+    "opened": true
+  },
+  {
+    "id": "visit-22",
+    "class": "cl-22",
+    "show": "show-1",
+    "actual": "captions",
+    "day": "2026-10-23",
+    "opened": false
+  },
+  {
+    "id": "visit-23",
+    "class": "cl-23",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-24",
+    "opened": true
+  },
+  {
+    "id": "visit-24",
+    "class": "cl-24",
+    "show": "show-0",
+    "actual": "live",
+    "day": "2026-10-25",
+    "opened": true
+  },
+  {
+    "id": "visit-25",
+    "class": "cl-25",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-26",
+    "opened": true
+  },
+  {
+    "id": "mat-25",
+    "class": "cl-25",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-26",
+    "opened": true
+  },
+  {
+    "id": "visit-26",
+    "class": "cl-26",
+    "show": "show-2",
+    "actual": "live",
+    "day": "2026-10-27",
+    "opened": true
+  },
+  {
+    "id": "visit-27",
+    "class": "cl-27",
+    "show": "show-0",
+    "actual": "captions",
+    "day": "2026-10-28",
+    "opened": true
+  },
+  {
+    "id": "visit-28",
+    "class": "cl-28",
+    "show": "show-1",
+    "actual": "live",
+    "day": "2026-10-29",
+    "opened": true
+  },
+  {
+    "id": "visit-29",
+    "class": "cl-29",
+    "show": "show-2",
+    "actual": "captions",
+    "day": "2026-10-30",
+    "opened": true
+  }
+]

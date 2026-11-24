@@ -1,0 +1,1857 @@
+[
+  {
+    "token": "cl-01-00",
+    "round": "visit-01",
+    "confirmed": false
+  },
+  {
+    "token": "cl-01-01",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-02",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-03",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-04",
+    "round": "visit-01",
+    "confirmed": false
+  },
+  {
+    "token": "cl-01-05",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-06",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-07",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-08",
+    "round": "visit-01",
+    "confirmed": false
+  },
+  {
+    "token": "cl-01-09",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-10",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-11",
+    "round": "visit-01",
+    "confirmed": true
+  },
+  {
+    "token": "cl-01-12",
+    "round": "visit-01",
+    "confirmed": false
+  },
+  {
+    "token": "cl-02-00",
+    "round": "visit-02",
+    "confirmed": false
+  },
+  {
+    "token": "cl-02-01",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-02",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-03",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-04",
+    "round": "visit-02",
+    "confirmed": false
+  },
+  {
+    "token": "cl-02-05",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-06",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-07",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-08",
+    "round": "visit-02",
+    "confirmed": false
+  },
+  {
+    "token": "cl-02-09",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-10",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-11",
+    "round": "visit-02",
+    "confirmed": true
+  },
+  {
+    "token": "cl-02-12",
+    "round": "visit-02",
+    "confirmed": false
+  },
+  {
+    "token": "cl-03-00",
+    "round": "visit-03",
+    "confirmed": false
+  },
+  {
+    "token": "cl-03-01",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-02",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-03",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-04",
+    "round": "visit-03",
+    "confirmed": false
+  },
+  {
+    "token": "cl-03-05",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-06",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-07",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-08",
+    "round": "visit-03",
+    "confirmed": false
+  },
+  {
+    "token": "cl-03-09",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-10",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-11",
+    "round": "visit-03",
+    "confirmed": true
+  },
+  {
+    "token": "cl-03-12",
+    "round": "visit-03",
+    "confirmed": false
+  },
+  {
+    "token": "cl-04-00",
+    "round": "visit-04",
+    "confirmed": false
+  },
+  {
+    "token": "cl-04-01",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-02",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-03",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-04",
+    "round": "visit-04",
+    "confirmed": false
+  },
+  {
+    "token": "cl-04-05",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-06",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-07",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-08",
+    "round": "visit-04",
+    "confirmed": false
+  },
+  {
+    "token": "cl-04-09",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-10",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-11",
+    "round": "visit-04",
+    "confirmed": true
+  },
+  {
+    "token": "cl-04-12",
+    "round": "visit-04",
+    "confirmed": false
+  },
+  {
+    "token": "cl-05-00",
+    "round": "visit-05",
+    "confirmed": false
+  },
+  {
+    "token": "cl-05-01",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-01",
+    "round": "mat-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-02",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-03",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-04",
+    "round": "visit-05",
+    "confirmed": false
+  },
+  {
+    "token": "cl-05-04",
+    "round": "mat-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-05",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-06",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-07",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-07",
+    "round": "mat-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-08",
+    "round": "visit-05",
+    "confirmed": false
+  },
+  {
+    "token": "cl-05-09",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-10",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-10",
+    "round": "mat-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-11",
+    "round": "visit-05",
+    "confirmed": true
+  },
+  {
+    "token": "cl-05-12",
+    "round": "visit-05",
+    "confirmed": false
+  },
+  {
+    "token": "cl-06-00",
+    "round": "visit-06",
+    "confirmed": false
+  },
+  {
+    "token": "cl-06-01",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-02",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-03",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-04",
+    "round": "visit-06",
+    "confirmed": false
+  },
+  {
+    "token": "cl-06-05",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-06",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-07",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-08",
+    "round": "visit-06",
+    "confirmed": false
+  },
+  {
+    "token": "cl-06-09",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-10",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-11",
+    "round": "visit-06",
+    "confirmed": true
+  },
+  {
+    "token": "cl-06-12",
+    "round": "visit-06",
+    "confirmed": false
+  },
+  {
+    "token": "cl-07-00",
+    "round": "visit-07",
+    "confirmed": false
+  },
+  {
+    "token": "cl-07-01",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-02",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-03",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-04",
+    "round": "visit-07",
+    "confirmed": false
+  },
+  {
+    "token": "cl-07-05",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-06",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-07",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-08",
+    "round": "visit-07",
+    "confirmed": false
+  },
+  {
+    "token": "cl-07-09",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-10",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-11",
+    "round": "visit-07",
+    "confirmed": true
+  },
+  {
+    "token": "cl-07-12",
+    "round": "visit-07",
+    "confirmed": false
+  },
+  {
+    "token": "cl-08-00",
+    "round": "visit-08",
+    "confirmed": false
+  },
+  {
+    "token": "cl-08-01",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-02",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-03",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-04",
+    "round": "visit-08",
+    "confirmed": false
+  },
+  {
+    "token": "cl-08-05",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-06",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-07",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-08",
+    "round": "visit-08",
+    "confirmed": false
+  },
+  {
+    "token": "cl-08-09",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-10",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-11",
+    "round": "visit-08",
+    "confirmed": true
+  },
+  {
+    "token": "cl-08-12",
+    "round": "visit-08",
+    "confirmed": false
+  },
+  {
+    "token": "cl-09-00",
+    "round": "visit-09",
+    "confirmed": false
+  },
+  {
+    "token": "cl-09-01",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-02",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-03",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-04",
+    "round": "visit-09",
+    "confirmed": false
+  },
+  {
+    "token": "cl-09-05",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-06",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-07",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-08",
+    "round": "visit-09",
+    "confirmed": false
+  },
+  {
+    "token": "cl-09-09",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-10",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-11",
+    "round": "visit-09",
+    "confirmed": true
+  },
+  {
+    "token": "cl-09-12",
+    "round": "visit-09",
+    "confirmed": false
+  },
+  {
+    "token": "cl-10-00",
+    "round": "visit-10",
+    "confirmed": false
+  },
+  {
+    "token": "cl-10-01",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-01",
+    "round": "mat-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-02",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-03",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-04",
+    "round": "visit-10",
+    "confirmed": false
+  },
+  {
+    "token": "cl-10-04",
+    "round": "mat-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-05",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-06",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-07",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-07",
+    "round": "mat-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-08",
+    "round": "visit-10",
+    "confirmed": false
+  },
+  {
+    "token": "cl-10-09",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-10",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-10",
+    "round": "mat-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-11",
+    "round": "visit-10",
+    "confirmed": true
+  },
+  {
+    "token": "cl-10-12",
+    "round": "visit-10",
+    "confirmed": false
+  },
+  {
+    "token": "cl-12-00",
+    "round": "visit-12",
+    "confirmed": false
+  },
+  {
+    "token": "cl-12-01",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-02",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-03",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-04",
+    "round": "visit-12",
+    "confirmed": false
+  },
+  {
+    "token": "cl-12-05",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-06",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-07",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-08",
+    "round": "visit-12",
+    "confirmed": false
+  },
+  {
+    "token": "cl-12-09",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-10",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-11",
+    "round": "visit-12",
+    "confirmed": true
+  },
+  {
+    "token": "cl-12-12",
+    "round": "visit-12",
+    "confirmed": false
+  },
+  {
+    "token": "cl-13-00",
+    "round": "visit-13",
+    "confirmed": false
+  },
+  {
+    "token": "cl-13-01",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-02",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-03",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-04",
+    "round": "visit-13",
+    "confirmed": false
+  },
+  {
+    "token": "cl-13-05",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-06",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-07",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-08",
+    "round": "visit-13",
+    "confirmed": false
+  },
+  {
+    "token": "cl-13-09",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-10",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-11",
+    "round": "visit-13",
+    "confirmed": true
+  },
+  {
+    "token": "cl-13-12",
+    "round": "visit-13",
+    "confirmed": false
+  },
+  {
+    "token": "cl-14-00",
+    "round": "visit-14",
+    "confirmed": false
+  },
+  {
+    "token": "cl-14-01",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-02",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-03",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-04",
+    "round": "visit-14",
+    "confirmed": false
+  },
+  {
+    "token": "cl-14-05",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-06",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-07",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-08",
+    "round": "visit-14",
+    "confirmed": false
+  },
+  {
+    "token": "cl-14-09",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-10",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-11",
+    "round": "visit-14",
+    "confirmed": true
+  },
+  {
+    "token": "cl-14-12",
+    "round": "visit-14",
+    "confirmed": false
+  },
+  {
+    "token": "cl-15-00",
+    "round": "visit-15",
+    "confirmed": false
+  },
+  {
+    "token": "cl-15-01",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-01",
+    "round": "mat-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-02",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-03",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-04",
+    "round": "visit-15",
+    "confirmed": false
+  },
+  {
+    "token": "cl-15-04",
+    "round": "mat-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-05",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-06",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-07",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-07",
+    "round": "mat-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-08",
+    "round": "visit-15",
+    "confirmed": false
+  },
+  {
+    "token": "cl-15-09",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-10",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-10",
+    "round": "mat-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-11",
+    "round": "visit-15",
+    "confirmed": true
+  },
+  {
+    "token": "cl-15-12",
+    "round": "visit-15",
+    "confirmed": false
+  },
+  {
+    "token": "cl-16-00",
+    "round": "visit-16",
+    "confirmed": false
+  },
+  {
+    "token": "cl-16-01",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-02",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-03",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-04",
+    "round": "visit-16",
+    "confirmed": false
+  },
+  {
+    "token": "cl-16-05",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-06",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-07",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-08",
+    "round": "visit-16",
+    "confirmed": false
+  },
+  {
+    "token": "cl-16-09",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-10",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-11",
+    "round": "visit-16",
+    "confirmed": true
+  },
+  {
+    "token": "cl-16-12",
+    "round": "visit-16",
+    "confirmed": false
+  },
+  {
+    "token": "cl-17-00",
+    "round": "visit-17",
+    "confirmed": false
+  },
+  {
+    "token": "cl-17-01",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-02",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-03",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-04",
+    "round": "visit-17",
+    "confirmed": false
+  },
+  {
+    "token": "cl-17-05",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-06",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-07",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-08",
+    "round": "visit-17",
+    "confirmed": false
+  },
+  {
+    "token": "cl-17-09",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-10",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-11",
+    "round": "visit-17",
+    "confirmed": true
+  },
+  {
+    "token": "cl-17-12",
+    "round": "visit-17",
+    "confirmed": false
+  },
+  {
+    "token": "cl-18-00",
+    "round": "visit-18",
+    "confirmed": false
+  },
+  {
+    "token": "cl-18-01",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-02",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-03",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-04",
+    "round": "visit-18",
+    "confirmed": false
+  },
+  {
+    "token": "cl-18-05",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-06",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-07",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-08",
+    "round": "visit-18",
+    "confirmed": false
+  },
+  {
+    "token": "cl-18-09",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-10",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-11",
+    "round": "visit-18",
+    "confirmed": true
+  },
+  {
+    "token": "cl-18-12",
+    "round": "visit-18",
+    "confirmed": false
+  },
+  {
+    "token": "cl-19-00",
+    "round": "visit-19",
+    "confirmed": false
+  },
+  {
+    "token": "cl-19-01",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-02",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-03",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-04",
+    "round": "visit-19",
+    "confirmed": false
+  },
+  {
+    "token": "cl-19-05",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-06",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-07",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-08",
+    "round": "visit-19",
+    "confirmed": false
+  },
+  {
+    "token": "cl-19-09",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-10",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-11",
+    "round": "visit-19",
+    "confirmed": true
+  },
+  {
+    "token": "cl-19-12",
+    "round": "visit-19",
+    "confirmed": false
+  },
+  {
+    "token": "cl-20-00",
+    "round": "visit-20",
+    "confirmed": false
+  },
+  {
+    "token": "cl-20-01",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-01",
+    "round": "mat-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-02",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-03",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-04",
+    "round": "visit-20",
+    "confirmed": false
+  },
+  {
+    "token": "cl-20-04",
+    "round": "mat-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-05",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-06",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-07",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-07",
+    "round": "mat-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-08",
+    "round": "visit-20",
+    "confirmed": false
+  },
+  {
+    "token": "cl-20-09",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-10",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-10",
+    "round": "mat-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-11",
+    "round": "visit-20",
+    "confirmed": true
+  },
+  {
+    "token": "cl-20-12",
+    "round": "visit-20",
+    "confirmed": false
+  },
+  {
+    "token": "cl-21-00",
+    "round": "visit-21",
+    "confirmed": false
+  },
+  {
+    "token": "cl-21-01",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-02",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-03",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-04",
+    "round": "visit-21",
+    "confirmed": false
+  },
+  {
+    "token": "cl-21-05",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-06",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-07",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-08",
+    "round": "visit-21",
+    "confirmed": false
+  },
+  {
+    "token": "cl-21-09",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-10",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-11",
+    "round": "visit-21",
+    "confirmed": true
+  },
+  {
+    "token": "cl-21-12",
+    "round": "visit-21",
+    "confirmed": false
+  },
+  {
+    "token": "cl-23-00",
+    "round": "visit-23",
+    "confirmed": false
+  },
+  {
+    "token": "cl-23-01",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-02",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-03",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-04",
+    "round": "visit-23",
+    "confirmed": false
+  },
+  {
+    "token": "cl-23-05",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-06",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-07",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-08",
+    "round": "visit-23",
+    "confirmed": false
+  },
+  {
+    "token": "cl-23-09",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-10",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-11",
+    "round": "visit-23",
+    "confirmed": true
+  },
+  {
+    "token": "cl-23-12",
+    "round": "visit-23",
+    "confirmed": false
+  },
+  {
+    "token": "cl-24-00",
+    "round": "visit-24",
+    "confirmed": false
+  },
+  {
+    "token": "cl-24-01",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-02",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-03",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-04",
+    "round": "visit-24",
+    "confirmed": false
+  },
+  {
+    "token": "cl-24-05",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-06",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-07",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-08",
+    "round": "visit-24",
+    "confirmed": false
+  },
+  {
+    "token": "cl-24-09",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-10",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-11",
+    "round": "visit-24",
+    "confirmed": true
+  },
+  {
+    "token": "cl-24-12",
+    "round": "visit-24",
+    "confirmed": false
+  },
+  {
+    "token": "cl-25-00",
+    "round": "visit-25",
+    "confirmed": false
+  },
+  {
+    "token": "cl-25-01",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-01",
+    "round": "mat-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-02",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-03",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-04",
+    "round": "visit-25",
+    "confirmed": false
+  },
+  {
+    "token": "cl-25-04",
+    "round": "mat-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-05",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-06",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-07",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-07",
+    "round": "mat-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-08",
+    "round": "visit-25",
+    "confirmed": false
+  },
+  {
+    "token": "cl-25-09",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-10",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-10",
+    "round": "mat-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-11",
+    "round": "visit-25",
+    "confirmed": true
+  },
+  {
+    "token": "cl-25-12",
+    "round": "visit-25",
+    "confirmed": false
+  },
+  {
+    "token": "cl-26-00",
+    "round": "visit-26",
+    "confirmed": false
+  },
+  {
+    "token": "cl-26-01",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-02",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-03",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-04",
+    "round": "visit-26",
+    "confirmed": false
+  },
+  {
+    "token": "cl-26-05",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-06",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-07",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-08",
+    "round": "visit-26",
+    "confirmed": false
+  },
+  {
+    "token": "cl-26-09",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-10",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-11",
+    "round": "visit-26",
+    "confirmed": true
+  },
+  {
+    "token": "cl-26-12",
+    "round": "visit-26",
+    "confirmed": false
+  },
+  {
+    "token": "cl-27-00",
+    "round": "visit-27",
+    "confirmed": false
+  },
+  {
+    "token": "cl-27-01",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-02",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-03",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-04",
+    "round": "visit-27",
+    "confirmed": false
+  },
+  {
+    "token": "cl-27-05",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-06",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-07",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-08",
+    "round": "visit-27",
+    "confirmed": false
+  },
+  {
+    "token": "cl-27-09",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-10",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-11",
+    "round": "visit-27",
+    "confirmed": true
+  },
+  {
+    "token": "cl-27-12",
+    "round": "visit-27",
+    "confirmed": false
+  },
+  {
+    "token": "cl-28-00",
+    "round": "visit-28",
+    "confirmed": false
+  },
+  {
+    "token": "cl-28-01",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-02",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-03",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-04",
+    "round": "visit-28",
+    "confirmed": false
+  },
+  {
+    "token": "cl-28-05",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-06",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-07",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-08",
+    "round": "visit-28",
+    "confirmed": false
+  },
+  {
+    "token": "cl-28-09",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-10",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-11",
+    "round": "visit-28",
+    "confirmed": true
+  },
+  {
+    "token": "cl-28-12",
+    "round": "visit-28",
+    "confirmed": false
+  },
+  {
+    "token": "cl-29-00",
+    "round": "visit-29",
+    "confirmed": false
+  },
+  {
+    "token": "cl-29-01",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-02",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-03",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-04",
+    "round": "visit-29",
+    "confirmed": false
+  },
+  {
+    "token": "cl-29-05",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-06",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-07",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-08",
+    "round": "visit-29",
+    "confirmed": false
+  },
+  {
+    "token": "cl-29-09",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-10",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-11",
+    "round": "visit-29",
+    "confirmed": true
+  },
+  {
+    "token": "cl-29-12",
+    "round": "visit-29",
+    "confirmed": false
+  }
+]

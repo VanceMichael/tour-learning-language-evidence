@@ -1,0 +1,117 @@
+{
+  "classes": {
+    "fields": [
+      "id",
+      "site",
+      "band",
+      "assigned",
+      "probability",
+      "show",
+      "day",
+      "scale"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "rounds": {
+    "fields": [
+      "id",
+      "class",
+      "show",
+      "actual",
+      "day",
+      "opened"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "roster": {
+    "fields": [
+      "token",
+      "class"
+    ],
+    "key": [
+      "token"
+    ]
+  },
+  "attendance": {
+    "fields": [
+      "token",
+      "round",
+      "confirmed"
+    ],
+    "key": [
+      "token",
+      "round"
+    ]
+  },
+  "items": {
+    "fields": [
+      "id",
+      "version",
+      "comparable_item",
+      "target",
+      "trusted_link"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "responses": {
+    "fields": [
+      "id",
+      "token",
+      "class",
+      "round",
+      "phase",
+      "item",
+      "correct",
+      "day",
+      "attempt"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "withdrawals": {
+    "fields": [
+      "id",
+      "class",
+      "target",
+      "phase",
+      "effective"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "decision_policy": {
+    "fields": [
+      "id",
+      "needed_anchors",
+      "min_classes",
+      "max_minutes",
+      "min_effect"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "booking": {
+    "fields": [
+      "id",
+      "show",
+      "place",
+      "band",
+      "must_live",
+      "expected_people",
+      "minutes",
+      "status"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

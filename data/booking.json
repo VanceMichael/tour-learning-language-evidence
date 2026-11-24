@@ -1,0 +1,52 @@
+[
+  {
+    "id": "r01",
+    "show": "show-0",
+    "place": "north",
+    "band": "lower",
+    "must_live": true,
+    "expected_people": 72,
+    "minutes": 150,
+    "status": "confirmed"
+  },
+  {
+    "id": "r02",
+    "show": "show-1",
+    "place": "east",
+    "band": "upper",
+    "must_live": true,
+    "expected_people": 45,
+    "minutes": 160,
+    "status": "confirmed"
+  },
+  {
+    "id": "r03",
+    "show": "show-0",
+    "place": "north",
+    "band": "upper",
+    "must_live": false,
+    "expected_people": 100,
+    "minutes": 125,
+    "status": "candidate"
+  },
+  {
+    "id": "r04",
+    "show": "show-1",
+    "place": "west",
+    "band": "lower",
+    "must_live": false,
+    "expected_people": 88,
+    "minutes": 130,
+    "status": "candidate"
+  },
+  {
+    "id": "r05",
+    "show": "show-2",
+    "place": "west",
+    "band": "upper",
+    "must_live": false,
+    "expected_people": 92,
+    "minutes": 110,
+    "status": "candidate"
+  }
+]
